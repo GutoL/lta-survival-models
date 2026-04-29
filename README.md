@@ -6,7 +6,7 @@ pacientes com Leishmaniose Tegumentar Americana (LTA) no Brasil (2007–2025).
 
 ## Autores
 
-- Guto Leoni Santos (gutoleo@amazon.com)
+- Guto Leoni Santos (gls4@cin.ufpe.br)
 - Vanderson Sampaio (vanderson.sampaio@itps.org.br)
 
 ## Estrutura do Projeto
